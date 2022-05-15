@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_btn_place.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_buttons_splash.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_edit_text_main_top.xml" value="0.118" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_et_registration.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_image_places.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_login_registration.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_registration.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/bg_signup_registration.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.123" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/layout/activity_ar.xml" value="0.12631578947368421" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/layout/activity_place.xml" value="0.12631578947368421" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/TourismAppWaleed/app/src/main/res/layout/list_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
